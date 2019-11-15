@@ -131,7 +131,7 @@ img{
 
  @media (max-width: 375px){
     .row > div {
-        padding: 10px;
+        padding: 5px;
         background-color: darksalmon;
         border: 2px solid rgb(19, 68, 202);
         margin-left: 1em;
@@ -148,3 +148,43 @@ img{
     
  }
 }
+
+
+@media (max-width: 375px){
+    button{
+       
+        margin-right: 73%;
+    }
+    
+ }
+
+ 
+@media (max-width: 375px){
+    .btn-danger{
+       
+        margin-left: 41%;
+       
+    }
+    
+ }
+
+
+
+  
+@media (max-width: 375px){
+  
+ .grid {
+    background-color: darkcyan;
+    display: grid;
+    padding: 10px;
+    grid-column-gap:5px;
+    grid-row-gap: 5px;
+    grid-template-columns: auto auto auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+ }
+
+
