@@ -1,0 +1,150 @@
+body {
+background-color: aqua;
+ 
+  
+   }
+
+   .grid {
+    background-color: darkcyan;
+    display: grid;
+    padding: 20px;
+    grid-column-gap:5px;
+    grid-row-gap: 10px;
+    grid-template-columns: auto auto auto;
+}
+
+
+   .grid-item {
+       background-color: rgb(159, 193, 255);
+       font-size: 15px;
+       padding: 20px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+
+
+   p{
+       font-size: large;
+       text-align: center;
+   }
+
+   h1{
+    color:black;
+    text-align: center;
+}
+
+#lz{
+font-size: 40px;
+color: blueviolet;
+
+
+}
+
+ul{
+    color: brown;
+    font-size: 150%;
+}
+.t{
+    font-size: 22px;
+}
+
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+   
+    font-size:22px;
+  }
+  th {
+      border: 1px solid black;
+  }
+
+  td {
+    border: 1px solid black;
+}
+
+button{
+
+margin-left: 45%;
+margin-right: auto;
+}
+
+.row > div {
+    padding: 10px;
+    background-color: darksalmon;
+    border: 5px solid rgb(19, 68, 202);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+}
+
+#section3, #section2, #section1{
+    margin-left: 15px;
+    color: rgb(29, 38, 117);
+}
+
+.mylab{
+   margin-left: 37%;
+    
+    font-size: 30px;
+    font-weight: bold;
+}
+
+@media (max-width: 375px){
+    .mylab {
+       margin-left: 20%;
+       font-size: 5mm;
+     }
+ }
+
+ @media (max-width: 375px){
+    table, th , td {
+       width: 1%;
+       font-size: 4mm;
+     }
+ }
+
+ @media (max-width: 375px){
+    h1 {
+       font-size: 6mm;
+ }
+ @media (max-width: 375px){
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+        width: 100%;
+    }
+    
+ }
+
+
+ @media (max-width: 375px){
+    .row > div {
+        padding: 10px;
+        background-color: darksalmon;
+        border: 2px solid rgb(19, 68, 202);
+        margin-left: 1em;
+        margin-right: 1em;
+        
+    }
+    
+ }
+
+ @media (max-width: 375px){
+    .t{
+        font-size: 1px;
+    }
+    
+ }
+}

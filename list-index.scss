@@ -1,0 +1,16 @@
+$color: orange;
+h1{
+    font-size: larger;
+    color:$color;
+    text-align: center;
+}
+
+div{
+    font-size: 90px;
+    p {
+      color:blueviolet;
+    }
+    ul{
+      color: $color;
+    }
+  }

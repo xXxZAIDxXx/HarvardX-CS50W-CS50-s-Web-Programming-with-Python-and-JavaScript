@@ -1,0 +1,45 @@
+h1 {
+  font-size: larger;
+  color: rgb(243, 178, 117);
+  text-align: center;
+}
+div {
+  font-size: 50px;
+}
+div p {
+  color: rgb(243, 178, 117);
+}
+ ol {
+  color: rgb(243, 178, 117);
+  font-size: 80%;
+}
+#ourForm {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(243, 178, 117);
+  
+}
+
+
+div{
+ text-align:center;
+} 
+
+ul{
+  display:inline-block;
+ text-align:left;
+}
+
+ h1,h3, button {
+ 
+  text-align: center;
+  align-content: center;
+  background-color: cadetblue;
+  
+ 
+}
+
+body{
+  background-color: rgb(72, 162, 235);
+  
+}
