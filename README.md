@@ -1,4 +1,4 @@
-# Project 0
+# Some of the Public Projects
  https://xxxzaidxxx.github.io/HarvardX-CS50W-CS50-s-Web-Programming-with-Python-and-JavaScript/
  
 # Web Programming with Python and JavaScript
