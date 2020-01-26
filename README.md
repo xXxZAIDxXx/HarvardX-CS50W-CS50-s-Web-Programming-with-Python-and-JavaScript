@@ -1,4 +1,4 @@
-# Some of the Public Projects
+# My fisrt Project 0 , the rest are private due to the educatnal terms of the Assignments 
  https://xxxzaidxxx.github.io/HarvardX-CS50W-CS50-s-Web-Programming-with-Python-and-JavaScript/
  
 # Web Programming with Python and JavaScript
